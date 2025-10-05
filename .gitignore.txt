@@ -1,0 +1,10 @@
+# Игнорировать временные и служебные файлы Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.pdb

@@ -45,6 +45,7 @@ namespace Обобщенные_классы
             //segment2.Show();
             //Console.WriteLine($"Длина отрезка: {segment2.Length()}");
 
+
             Console.ReadKey();
         }
     }
